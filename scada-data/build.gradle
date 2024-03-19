@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':scada-common')
+    //milo
+    implementation 'org.eclipse.milo:sdk-client:0.6.9'
+}
+
+description = 'scada-data'

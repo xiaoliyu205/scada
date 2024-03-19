@@ -1,0 +1,4 @@
+rootProject.name = 'scada'
+include 'scada-common'
+include 'scada-data'
+
